@@ -1,4 +1,4 @@
-# Отчёт о тестировании Key Validator
+# Отчёт о тестировании Credit Card Number Validator
 
 ## Краткое описание
 
